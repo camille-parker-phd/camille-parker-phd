@@ -14,5 +14,5 @@ Using natural language processing (NLP), what can we learn about people's interp
 [Machine Learning for Text Analysis (2024)](https://tu-coding-outreach-group.github.io/cog_summer_workshops_2024/ml_for_text_analysis/index.html)  
 Which qualities describe coffee that consumers love (rich, floral, etc.) vs. hate (smoky, drying, etc.)?
 
-**Personal Project 💄📈** 
+**Personal Project 💄📈**  
 Which traits are becoming more or less popular in makeup products over time?
