@@ -15,4 +15,5 @@ Using natural language processing (NLP), what can we learn about people's interp
 Which qualities describe coffee that consumers love (rich, floral, etc.) vs. hate (smoky, drying, etc.)?
 
 **Personal Project 💄📈**  
-Which traits are becoming more or less popular in makeup products over time?
+[Beauty Review Insights (2025)](https://github.com/camille-parker-phd/beauty-review-insights)
+Which traits are becoming more or less popular in skincare products over time?
